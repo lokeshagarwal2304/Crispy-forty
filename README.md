@@ -23,6 +23,11 @@
 | 🧠 AI-Generated Riddles (Optional) | Use GPT to generate new riddles dynamically.                          |
 
 ---
+### **Demo**
+Home Page ![image](https://github.com/user-attachments/assets/171b256b-2997-49bf-842b-3dba7e6a9c1b)
+
+---
+
 
 ### ⚙️ **Tech Stack**
 

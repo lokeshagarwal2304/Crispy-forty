@@ -25,6 +25,8 @@
 ---
 ### **Demo**
 Home Page ![image](https://github.com/user-attachments/assets/171b256b-2997-49bf-842b-3dba7e6a9c1b)
+Random LEVELup ![image](https://github.com/user-attachments/assets/51996553-7033-4f13-a0ae-fd1c74d86585)
+Kudoos ![image](https://github.com/user-attachments/assets/3e0f3a63-2d90-4419-b128-966bb43f4606)
 
 ---
 

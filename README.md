@@ -118,8 +118,6 @@ crispy-forty/
 └── README.md
 ```
 
----
-
 ### 🌟 **Enhancement Ideas**
 - 🌐 Add multilingual riddle support.
 - 🎙️ Voice-command based puzzles (Web Speech API).
